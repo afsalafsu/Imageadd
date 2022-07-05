@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549845979029",
+    "project_id": "imageapp-ad1fa",
+    "storage_bucket": "imageapp-ad1fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549845979029:android:be0df326a22d2a74b4709c",
+        "android_client_info": {
+          "package_name": "com.faraj.imageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549845979029-rh87ms80rpb6natkppbr9ur0rlcq4asg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiOgNKiajTAUTmdi7enQRgOdh3I0v9o8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549845979029-rh87ms80rpb6natkppbr9ur0rlcq4asg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
